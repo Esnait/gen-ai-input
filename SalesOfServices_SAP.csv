@@ -1,0 +1,15 @@
+﻿Test Scenario,Description,Test Steps
+Create Sales Order,,1. Navigate to SAP Fiori Website 'https://3.134.200.189:44300/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html' it will land on SAP Fiori page.
+,,2. Populate 'User' as 'Training_25'.
+,,3. Populate 'Password' as 'Training_25'.
+,,4. Populate Search bar as 'Manage Sales Orders'.
+,,6. Click on the 'Search' Icon.
+,,7. Select 'Manage Sales Orders' from the available list.
+,,8. Select 'Create Sales Order VA01' from the 'Create' dropdown.
+,,9. Populate 'Order Type' as 'OR'.
+,,10. Populate 'Sales Organization' as '1710'.
+,,11. Populate 'Distribution Channel' as '10'.
+,,12. Populate 'Division' as '00'.
+,,13. Click on the 'Continue' button.
+,,14. Populate 'Sold-to Party:' as '17100003'.
+,,15. Populate 'Ship-to Party:' as '17100003'.

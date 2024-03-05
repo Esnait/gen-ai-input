@@ -1,0 +1,21 @@
+﻿Test Case Name,Step # ,Test Step Name ,Step Description 
+Create Sales Order ,Step 1 ,Log on ,Go to www.sapfiori.com and logon as Internal Sales Representative.
+,,,Enter admin as Username and abc123 as Password. 
+,,,Click Login. 
+,,,
+,Step 2 ,Access the App ,Open Manage Sales Orders. 
+,Step 3 ,Create Sales Order ,"On Manage Sales Orders screen, choose Create Sales Order. "
+,Step 4 ,Enter Data ,On the Create Sales Orders: make the following entries: 
+,,,Order Type: OR 
+,,,Sales Organization: 1710 
+,,,Distribution Channel: 10 
+,,,Division: 00 
+,Step 5 ,Enter Order Details ,On the Create Sales Orders: make the following entries 
+,,,Sold-to Party: 17100003 
+,,,Sold-to Party: 15100050 
+,,,Ship-to Party: 17100003 
+,,,Ship-to Party:15100050 
+,,,PO Number: <PO number> 
+,,,Material Number: SM0001 
+,,,Quantity: 100 
+,Step 6 ,Save Document ,Choose Save Document. 

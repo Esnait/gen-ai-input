@@ -1,0 +1,34 @@
+Test Scenario,Description,Test Steps
+Hire an Employee,,1. Navigate to https://fa-ecqg-dev5-saasfaprod1.fa.ocs.oraclecloud.com/ it will land on login page.
+,,2. Populate User ID with deepa.m4@cognizant.com on login page
+,,3. Populate Password with Dqporcle@567 on login page
+,,4. Click ' Sign In ' button on login page.
+,,5. Click My Client Groups on home Page.
+,,6. Click New Person on home Page.
+,,7. Click Hire an Employee on home page.
+,,8. Click Legal Employer on Identification Page.
+,,9. Click FU01 US LE01  on Identification Page.
+,,10. Enter Last Name as Walker on Identification Page.
+,,11. Enter First Name as Emp1 on Identification Page.
+,,12. Click Next on Identification Page.
+,,13. Click Continue on Identification Page
+,,14. Enter Address Line 1 as 30 Green Way on Personal Information page.
+,,15. Enter ZIP Code as 94111 on Personal Information page.
+,,16.Click Next on Personal Information page.
+,,17. Click Business Unit on Employment Information page.
+,,18. Click FU01 AE BU01 on Employment Information page.
+,,19. Enter Job as Analyst on Employment Information page.
+,,20. Enter Grade as FU01 AE Grade 2 on Employment Information page.
+,,21. Click Next on Employment Information page.
+,,23. Enter Salary Basis as US Hourly Salary on Compensation page.
+,,24. Enter Salary Amount as 100 on Compensation page.
+,,25. Click Next on Compensation page.
+,,26. Click Save on Review page.
+,,27. Click O on Review page.
+,,28. Click Submit on Review page.
+,,29. Click es on Review page.
+,,30. Click O on Review page.
+,,
+,,
+,,
+,,
