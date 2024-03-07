@@ -1,0 +1,9 @@
+Application,Issue Type,Summary,Description,Steps,Description (Design Steps),Expected,Status,Step Attachment,IssueId,IssueKey,PostStatus,ReqID,Def Id
+kemper.com,Find an agent,Validating the find an agent tool ,,Step 1,1. Navigate to Kemper Website https://https://www.kemper.com/claims/report-a-claimit will land on Kemper Claims page.,User should be navigated to report-a-claim page.,,,,,,,
+,,,,Step 2,2. Click on Find a Repair Shop on Report a Claim page.,User should land on find-a-repair-shop page.,,,,,,,
+,,,,Step 3,4. Populate ZIP Code as 10001,Enter ZIP Code field with 10001,,,,,,,
+,,,,Step 4,"5. Populate Street Address as San Diego, CA, USA","Enter Street Address field with San Diego,CA,USA",,,,,,,
+,,,,Step 5,6. Populate City as San Mateo,Enter City field with San Mateo,,,,,,,
+,,,,Step 6,7. Select State as Indiana,From State dropdown Indiana will be selected.,,,,,,,
+,,,,Step 7,8. Select Search Radius as 10,From Search Radius dropdown 10 will be selected,,,,,,,
+,,,,Step 8,9. Click on FIND REPAIR SHOPS,User should navigate to autoinsurance_request page.,,,,,,,
