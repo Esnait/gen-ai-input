@@ -1,0 +1,11 @@
+Application,Issue Type,Summary,Description,Steps,Description (Design Steps),Expected,Status,Step Attachment,IssueId,IssueKey,PostStatus,ReqID,Def Id
+Avion.com,create account,Validating account is created,,Step 1,Navigate to Avion Website http://34.217.237.141:3003/banking-app it will land on Avion Login page.,User should be navigated to Avion website.,,,,,,,
+,,,,Step 2,Populate Username as admin@admin.com,admin@admin.com should get entered in Username field,,,,,,,
+,,,,Step 3,Populate Password as abc123,abc123 should get entered in Password field,,,,,,,
+,,,,Step 4,Click Login,Login should get clicked,,,,,,,
+,,,,Step 5,Click Fund Transfer,Fund Transfer should get clicked,,,,,,,
+,,,,Step 6,Select FROM (SENDER) as Sampleuser #6296523259,Sampleuser #6296523259 should get selected in FROM (SENDER) drop down,,,,,,,
+,,,,Step 7,Populate AMOUNT TO TRANSFER as 100,100 should get entered in AMOUNT TO TRANSFER,,,,,,,
+,,,,Step 8,Select TO (RECEIVER) as Admin Account #47290539480, Admin Account #47290539480 should get selected in TO (RECEIVER) drop down,,,,,,,
+,,,,Step 9,Click TRANSFER FUND ,Create Account should get clicked,,,,,,,
+,,,,Step 10,Verify 'Successfully saved' is displayed at top,Successfully saved' should get displayed at top,,,,,,,
